@@ -206,6 +206,9 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [BitDegree-Php](https://bitdegree.org/learn/learn-php)
 
 - **Ruby**
+    - [Agile Web Development with Rails 5.1](https://pragprog.com/book/rails51/agile-web-development-with-rails-51)
+    - [TryRuby](https://ruby.github.io/TryRuby/)
+    - [The Definitive Ruby Tutorial For Complete Beginners](https://www.rubyguides.com/ruby-tutorial/)
     - [Ruby on Rails Tutorial](https://www.railstutorial.org/book)
     - [Learn Ruby The Hard Way](https://learnrubythehardway.org/book/)
     - [Learn Ruby | Codecademy](https://www.codecademy.com/learn/learn-ruby) - Familiarity with Ruby before Rails
@@ -827,7 +830,7 @@ For summer internship, start looking at least 3-4 months in advance. #Tip
 |6 | [DotJS](https://www.dotjs.io/) | France | - | Nov9 | Nov9 | JS |
 |7 | [PyCon](https://www.pycon.fr/2018/) | France | - | October4 | October7 | Python |
 |8 | [React Europe](https://www.react-europe.org/) | France | - | May 21 - 24 | - | JS |
-|9 | [Dublin Web Summit](https://websummit.net/ ) | Dublin | No | Nov 5 | Nov 8 | Web |
+|9 | [Web Summit](https://websummit.net/ ) | Lisbon, Portugal | No | Nov 5 | Nov 8 | Web |
 |10| [Harvard Project for Asian and International Relations](https://www.hpair.org/)  | Malaysia | Yes | Aug 16 | Aug 20 | - |
 |11| [Grace Hopper Conference and Fellowship](https://ghc.anitab.org) | USA | Yes | Nov 14 | Nov 16 | - |
 |12| [MIT Global Startup Workshop](http://mitgsw.org/2015/) | USA | - | March 26 | March 28 | - |
@@ -867,6 +870,7 @@ For summer internship, start looking at least 3-4 months in advance. #Tip
 |45| [Bits & Pretzels](https://www.bitsandpretzels.com/) | no | Munich, Germany | September 29 - October 1 | - | Entrepreneurship |
 |46| [GDG DevFest London](https://devfest.gdg.london/) | no | London, United Kingdom | December 1 | - | Technology
 |47| [dotGo](https://www.dotgo.eu/) | Europe | No | March | Varies | Go |
+|48| [Lisbon Investment Summit](http://www.lis-summit.com/) | Lisbon, Portugal| Yes | June |-| Startups
 
 ---
 
@@ -930,6 +934,7 @@ For summer internship, start looking at least 3-4 months in advance. #Tip
       -  [TechCrunch - Tech and Startup News](https://techcrunch.com/)
       -  [ProductHunt](https://producthunt.com)
       -  [The Hustle](https://thehustle.co/)
+      -  [Indiehackers](https://www.indiehackers.com)
 
 # 11. Additional Links
 
